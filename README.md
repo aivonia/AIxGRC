@@ -1,4 +1,4 @@
-# AixGRC
+# AIxGRC
 
 This repository showcases hands-on projects that bridge AI development and Governance, Risk, and Compliance (GRC), using AWS technologies as the foundation.
 
