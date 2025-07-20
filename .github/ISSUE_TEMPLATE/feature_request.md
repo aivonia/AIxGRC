@@ -1,34 +1,20 @@
 ---
-name: 🧠 Feature or Idea Suggestion
-about: Suggest a new idea for events, resources, or community efforts
-title: "[Idea] "
-labels: enhancement
+name: Feature request
+about: Suggest an idea for this project
+title: ''
+labels: ''
 assignees: ''
 
 ---
 
-## 📌 What’s the idea?
+**Is your feature request related to a problem? Please describe.**
+A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
 
-_Describe your suggestion. This could be:_
+**Describe the solution you'd like**
+A clear and concise description of what you want to happen.
 
-- A topic for an event, roundtable, or fireside chat
-- A governance framework or AI risk area to cover
-- A community outreach initiative
-- A resource you'd like to see in the GitHub (e.g., checklist, register, template)
+**Describe alternatives you've considered**
+A clear and concise description of any alternative solutions or features you've considered.
 
----
-
-## 💡 Why does this matter for AIxGRC?
-
-_Explain how this aligns with our mission (governance, risk, ethical AI, public sector awareness, etc.)_
-
----
-
-## 🔧 Any suggestions for how it could work?
-
-(Optional) If you have specific thoughts about format, speakers, or delivery — share them here!
-
----
-
-📬 Want to discuss it more? Email: **team.aixgrc@gmail.com**
-
+**Additional context**
+Add any other context or screenshots about the feature request here.
