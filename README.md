@@ -33,6 +33,7 @@ Want to volunteer, speak, or donate resources?
 We’re building — and we want to build with you.
 
 📩 Email: team.aixgrc@gmail.com
+
 🔗 Subscribe on LinkedIn https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7316440445721432064
 
 
