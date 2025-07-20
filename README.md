@@ -1,40 +1,27 @@
-AIxGRC (Artificial Intelligence x Governance, Risk, and Compliance) is a community-driven initiative committed to strengthening ethical oversight, cybersecurity, and policy readiness in the age of artificial intelligence. We are proudly founded by a veteran, Georgetown graduate student, and ODU alum — and we exist to equip professionals, students, and organizations with the tools and conversations they need to govern AI responsibly.
+# AIxGRC – Ethical AI, Governance & Cybersecurity
 
-🎯 Mission
-To bridge the gap between rapid AI innovation and the governance needed to keep people safe.
+**AIxGRC** (Artificial Intelligence x Governance, Risk, and Compliance) is a community-led initiative to educate, equip, and connect individuals and organizations navigating the rapidly evolving landscape of AI risk.
 
-AIxGRC empowers underrepresented voices — from veterans and students to public-sector leaders — with real-world knowledge, resources, and community support. Through workshops, roundtables, mentorship, and open-access templates, we help ensure AI is built and used with transparency, accountability, and human-centered care.
+We focus on real-world applications of:
+- Ethical AI oversight
+- Cybersecurity controls
+- Public sector GRC alignment
+- Open education & hands-on templates
 
-🌍 Vision
-A world where AI governance is not an afterthought — but a shared responsibility.
+## 🚀 Current Focus
+- Planning our first **AIxGRC Roundtable** in Hampton Roads (Fall 2025)
+- Creating open-source risk register templates
+- Offering speaker resources and volunteer collaboration tools
 
-We envision a future where:
+## 🧰 Resources
+- 📄 [Mission + Vision](docs/mission-vision.md)
+- 📊 [AI Risk Register Template](templates/ai-risk-register-template.xlsx)
+- 📢 [Event Deck (Fall 2025)](community/sponsorship-deck.pdf)
 
-Public interest is protected in AI-enabled systems
+## 🤝 Get Involved
+If you're a student, researcher, cybersecurity professional, or policymaker — this project is for you.
 
-Cybersecurity and compliance are baked into AI design
+📩 Contact: [team.aixgrc@gmail.com](mailto:team.aixgrc@gmail.com)
 
-Communities, especially in defense, healthcare, and education, are equipped to ask better questions and mitigate real risks
-
-🔑 Our Pillars
-Ethical Awareness: Making AI risks and frameworks accessible
-
-GRC Readiness: Promoting practical, scalable risk tools for organizations
-
-Community-Driven Change: Centering veteran, student, and underrepresented voices
-
-Public Sector Focus: Supporting those shaping AI in government, defense, and public health
-
-📬 Let’s Collaborate
-Looking to co-host an event or sponsor our upcoming Hampton Roads roundtable?
-
-Want to volunteer, speak, or donate resources?
-
-We’re building — and we want to build with you.
-
-📩 Email: team.aixgrc@gmail.com
-
-🔗 Subscribe on LinkedIn https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7316440445721432064
-
-
-AIxGRC is a registered DBA of ReiBooks LLC.
+---
+*AIxGRC is a registered DBA of ReiBooks LLC.*
