@@ -15,8 +15,8 @@ We focus on real-world applications of:
 
 ## 🧰 Resources
 - 📄 [Mission + Vision](docs/mission-vision.md)
-- 📊 [AI Risk Register Template](templates/ai-risk-register-template.xlsx)
-- 📢 [Event Deck (Fall 2025)](community/sponsorship-deck.pdf)
+- 📊 [AI Risk Register Template](templates/All_Industry_AI_Risk_Register_Template.xlsx)
+
 
 ## 🤝 Get Involved
 If you're a student, researcher, cybersecurity professional, or policymaker — this project is for you.
