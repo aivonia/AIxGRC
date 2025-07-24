@@ -2,7 +2,7 @@
 
 This project is part of **AIxGRC** — a governance-first initiative to demonstrate how artificial intelligence systems can be developed responsibly with embedded governance, risk, and compliance practices.
 
-## 🧠 Project Overview
+##  Project Overview
 
 We use a Random Forest classifier to predict whether a breast tumor is malignant or benign using 30 numerical features from scikit-learn’s `load_breast_cancer` dataset.
 
@@ -19,17 +19,17 @@ While technically simple, this project is designed to show how even baseline ML 
 
 | Component                  | Status |
 |---------------------------|--------|
-| Model Card                | ✅ Included inside notebook |
-| Risk Register             | ✅ Documented in notebook |
-| Explainability            | ✅ Feature importance + class balance |
-| Fairness Evaluation       | ✅ Class distribution assessed |
-| Intended Use Clarified    | ✅ For educational purposes only |
-| Deployment Readiness      | ⬜ Not production-grade; no live system |
-| Audit Logging             | ⬜ Planned in future version |
+| Model Card                | Included inside notebook |
+| Risk Register             | Documented in notebook |
+| Explainability            | Feature importance + class balance |
+| Fairness Evaluation       | Class distribution assessed |
+| Intended Use Clarified    | For educational purposes only |
+| Deployment Readiness      | Not production-grade; no live system |
+| Audit Logging             | Planned in future version |
 
 ---
 
-## 📊 Technical Summary
+##  Technical Summary
 
 - **Model**: Random Forest Classifier
 - **Data**: Breast cancer dataset from scikit-learn
@@ -38,13 +38,13 @@ While technically simple, this project is designed to show how even baseline ML 
 
 ---
 
-## ⚠️ Responsible Use Disclaimer
+##  Responsible Use Disclaimer
 
 This project is for **educational and demonstration purposes only**. It is **not** intended for clinical or diagnostic use. Any model intended for medical deployment would require clinical validation, FDA compliance, and extensive real-world testing.
 
 ---
 
-## 📁 Project Files
+##  Project Files
 
 | File | Purpose |
 |------|---------|
