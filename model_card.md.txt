@@ -1,0 +1,43 @@
+# Model Card: Breast Cancer Classifier (AIxGRC Aligned)
+
+## Overview
+This model predicts whether a breast tumor is malignant or benign using 30 numerical features from clinical imaging data. The project is part of AIxGRC and demonstrates how machine learning can be documented and risk-aware, even at the proof-of-concept level.
+
+## Intended Use
+- For educational and demonstration purposes only.
+- Not intended for clinical deployment or medical decision-making.
+- Designed to showcase integration of GRC (Governance, Risk, and Compliance) practices into AI development.
+
+## Dataset
+- Source: scikit-learn's `load_breast_cancer`
+- Total Samples: 569
+- Target Classes:  
+  - `0` = Malignant  
+  - `1` = Benign
+- 30 numerical input features per sample
+
+## Performance
+- Model: Random Forest Classifier
+- Accuracy on Test Set: ~95%
+- Evaluation Metrics: Accuracy, Precision, Recall, F1-Score
+
+## Ethical Considerations
+- Dataset includes no sensitive or personally identifiable information.
+- Class distribution is reasonably balanced: ~37% malignant, ~63% benign.
+- Misclassification (especially false negatives) poses high ethical risk in real-world applications.
+- No demographic data included (e.g., age, race, clinical context).
+
+## GRC Alignment
+- [x] AI Risk Register included
+- [x] Model Card documented
+- [x] Class distribution analysis included
+- [ ] Feature importance visualization (removed for simplicity)
+- [ ] Audit logging or live deployment (not applicable)
+
+## Limitations
+- No demographic metadata to assess subgroup fairness.
+- Small sample size and limited context.
+- May overfit on limited clinical indicators without broader validation.
+
+## License
+MIT License – for educational use only.
