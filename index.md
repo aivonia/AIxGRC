@@ -1,6 +1,3 @@
----
-title: Welcome to AIxGRC
----
 
 # 🧠 AIxGRC: Ethical AI Governance in Practice
 
