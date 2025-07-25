@@ -1,0 +1,84 @@
+/* === AIxGRC Custom Theme === */
+
+body {
+  background-color: #0f172a; /* Dark navy slate */
+  color: #e2e8f0;            /* Light slate text */
+  font-family: 'Segoe UI', 'Helvetica Neue', sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+}
+
+.wrapper {
+  max-width: 860px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+header, footer {
+  text-align: center;
+  padding: 1.5rem 0;
+  background-color: #1e293b; /* Slightly lighter slate */
+  border-radius: 0.5rem;
+  margin-bottom: 2rem;
+}
+
+h1, h2, h3, h4 {
+  color: #facc15; /* Yellow for AI energy */
+  font-weight: 600;
+}
+
+a {
+  color: #38bdf8; /* Sky blue links */
+  text-decoration: none;
+  transition: 0.2s ease-in-out;
+}
+
+a:hover {
+  color: #7dd3fc;
+  text-decoration: underline;
+}
+
+p {
+  margin-bottom: 1rem;
+}
+
+ul.downloads {
+  list-style: none;
+  padding: 0;
+}
+
+ul.downloads li {
+  display: inline-block;
+  margin: 0 10px;
+}
+
+ul.downloads a {
+  background-color: #334155;
+  color: #e2e8f0;
+  padding: 0.5rem 1rem;
+  border-radius: 5px;
+  font-weight: bold;
+}
+
+ul.downloads a:hover {
+  background-color: #475569;
+}
+
+section {
+  background-color: #1e293b;
+  padding: 2rem;
+  border-radius: 8px;
+}
+
+code, pre {
+  background-color: #334155;
+  padding: 0.4em 0.6em;
+  border-radius: 4px;
+  font-family: monospace;
+  color: #fcd34d;
+}
+
+footer small {
+  color: #94a3b8;
+}
