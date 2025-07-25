@@ -30,4 +30,4 @@ AIxGRC was founded by Olivia Athelus to advance **trustworthy, explainable AI** 
 
 ---
 
-📬 Questions or collaborations? Email: `aixgrc@protonmail.com`
+📬 Questions or collaborations? Email: `team.aixgrc@gmail.com
