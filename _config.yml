@@ -1,5 +1,10 @@
 title: AIxGRC
 description: Responsible AI Governance in Practice
-theme: jekyll-theme-primer
-baseurl: ""  # leave this blank for root deployment
-markdown: kramdown
+theme: jekyll-theme-primer # still allows fallbacks
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
