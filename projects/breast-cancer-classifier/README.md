@@ -1,59 +1,59 @@
-# AIxGRC Project: Breast Cancer Classifier
+Breast Cancer Classifier
+Project Purpose
 
-This project is part of **AIxGRC** — a governance-first initiative to demonstrate how artificial intelligence systems can be developed responsibly with embedded governance, risk, and compliance practices.
+This project demonstrates a simple machine learning model used to classify breast tumors as malignant or benign using the breast cancer dataset available in scikit-learn.
 
-##  Project Overview
+The objective is to build a baseline classification model while documenting key considerations such as model transparency, evaluation metrics, and limitations.
 
-We use a Random Forest classifier to predict whether a breast tumor is malignant or benign using 30 numerical features from scikit-learn’s `load_breast_cancer` dataset.
+Dataset
 
-While technically simple, this project is designed to show how even baseline ML models can include:
+The dataset comes from scikit-learn’s load_breast_cancer dataset and contains:
 
-- Ethical and governance documentation
-- Transparent model behavior
-- Basic risk evaluation
-- Reproducible artifacts
+569 tumor samples
 
----
+30 numerical features derived from digitized images of breast mass tissue
 
-## 🔍 Governance, Risk & Compliance (GRC) Integration
+Target labels indicating malignant or benign tumors
 
-| Component                  | Status |
-|---------------------------|--------|
-| Model Card                | Included inside notebook |
-| Risk Register             | Documented in notebook |
-| Explainability            | Feature importance + class balance |
-| Fairness Evaluation       | Class distribution assessed |
-| Intended Use Clarified    | For educational purposes only |
-| Deployment Readiness      | Not production-grade; no live system |
-| Audit Logging             | Planned in future version |
+Model
 
----
+The model used in this project is a Random Forest Classifier, chosen for its interpretability and strong performance on structured datasets.
 
-##  Technical Summary
+Key steps included:
 
-- **Model**: Random Forest Classifier
-- **Data**: Breast cancer dataset from scikit-learn
-- **Accuracy**: ~95% on test set
-- **Key Evaluation**: Accuracy, precision, recall, F1-score
+Data loading and preprocessing
 
----
+Train/test split
 
-##  Responsible Use Disclaimer
+Model training using Random Forest
 
-This project is for **educational and demonstration purposes only**. It is **not** intended for clinical or diagnostic use. Any model intended for medical deployment would require clinical validation, FDA compliance, and extensive real-world testing.
+Model evaluation using classification metrics
 
----
+Model Performance
 
-##  Project Files
+The classifier achieves approximately 95% accuracy on the test dataset.
 
-| File | Purpose |
-|------|---------|
-| `breast_cancer_classifier.ipynb` | Core notebook with model + AIxGRC documentation |
-| `ai-risk-register.md` (optional) | Standalone risk register |
-| `README.md` | This file |
+Evaluation metrics include:
 
----
+Accuracy
 
-## 🧩 Part of the AIxGRC Portfolio
+Precision
 
-This project was developed by **Olivia Athelus** as part of the growing **AIxGRC portfolio**, where AI governance and GRC meet practical, hands-on development.
+Recall
+
+F1-score
+
+Feature importance is also examined to understand which variables contribute most to model predictions.
+
+Responsible Use
+
+This project is intended for educational and demonstration purposes only.
+
+It is not suitable for clinical or diagnostic use. Any AI system deployed in a healthcare setting would require clinical validation, regulatory approval, and extensive real-world testing.
+
+Project Files
+File	Description
+breast-cancer-classifier.ipynb	Main notebook containing data analysis, model training, and evaluation
+ethics-considerations.md	Discussion of ethical considerations related to medical AI systems
+explainability-report.md	Feature importance analysis and explainability review
+model_card.md	Documentation describing the model, limitations, and intended use
